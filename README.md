@@ -51,7 +51,7 @@ An interactive python program that calculates a tenant's total rent, payments, a
 >
 >Enter payment for December: 4700
 >
->⋆˚꩜｡RENT RECORD - August to December⋆‧°𓏲ּ𝄢
+>⋆˚꩜｡RENT RECORDS - August to December⋆‧°𓏲ּ𝄢
 >
 >Total Rent Owed: 25000.00
 >
